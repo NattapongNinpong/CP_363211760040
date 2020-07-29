@@ -39,7 +39,7 @@ public class MyVariable {
         String u = "RUTS";
         String con = msg + u;// + คือการต่อข้อความ
         System.out.println(con);
-        System.out.println(msg.concat(u));//concat เป็นเมธอดสำหรับการต่อข้อความ
+        System.out.println(msg.concat(u));//concat เป็นเมธอดสำหรับการต่อข้อความกัน
 
 
 
