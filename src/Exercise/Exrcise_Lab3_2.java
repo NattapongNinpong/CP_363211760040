@@ -9,6 +9,11 @@ public class Exrcise_Lab3_2 {
             }
             System.out.println();
 
+
+
+
+
+
         }
     }
 }
