@@ -2,7 +2,7 @@ package Lab3;
 
 import java.util.Scanner;
 
-public class Example_if_else_if {
+public class Example_If_else_if {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
