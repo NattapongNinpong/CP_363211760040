@@ -7,10 +7,10 @@ public class Example_While {
         Scanner sc = new Scanner(System.in);
         int num = 1;
 
-        while (num !=0){
+        while (num != 0){
             System.out.print("Enter integers: ");
             num = sc.nextInt();
         }
-        System.out.println("Good Bye");
+        System.out.println("Good Bye.");
     }
 }
